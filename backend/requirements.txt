@@ -1,0 +1,10 @@
+sentence_transformers
+sqlacodegen
+psycopg2-binary
+pgvector
+aiohttp
+beautifulsoup4
+pandas
+dotenv
+fastapi
+uvicorn
